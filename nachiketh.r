@@ -2,7 +2,7 @@
 title: 'Developing Data Products : R Markdown Presentation & Plotly'
 subtitle: 'Please use Right/Down Arrow or Space to advance to the next slide. This Presentation has 7 slides.'
 author: "Nachiketh R"
-date: "jan 20 2024"
+date: "jan 20 2025"
 output: ioslides_presentation
 ---
 
